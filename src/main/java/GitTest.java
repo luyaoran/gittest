@@ -8,6 +8,7 @@ public class GitTest {
 
     public void version ()
     {
+        //定义版本号
         String version;
         version = "1.0";
         System.out.println("version="+version);
